@@ -1,0 +1,2 @@
+# TrainingRepository
+Мій перший репозиторій
